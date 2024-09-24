@@ -19,22 +19,22 @@ In this wiki, we've compiled a list of design patterns with real-world examples 
 
 Here's a list of design patterns covered in this repository:
 
-- [Factory](./Factory-Pattern)
-- [Abstract](./Abstract-Factory)
-- [Singleton](./Singleton)
-- [Adapter](./Adapter)
-- [Bridge](./Bridge)
-- [Composite](./Composite)
-- [Decorator](./Decorator)
-- [Facade](./Facade)
-- [Flyweight](./Flyweight)
-- [Proxy](./Proxy)
-- [Chain of Responsibility](./Chain-of-Responsibility)
-- [Command](./Command)
-- [Iterator](./Iterator)
-- [Mediator](./Mediator)
-- [Memento](./Memento)
-- [Strategy](./Strategy)
+- [Factory](./Factory-Pattern.md)
+- [Abstract](./Abstract-Factory.md)
+- [Singleton](./Singleton.md)
+- [Adapter](./Adapter.md)
+- [Bridge](./Bridge.md)
+- [Composite](./Composite.md)
+- [Decorator](./Decorator.md)
+- [Facade](./Facade.md)
+- [Flyweight](./Flyweight.md)
+- [Proxy](./Proxy.md)
+- [Chain of Responsibility](./Chain-of-Responsibility.md)
+- [Command](./Command.md)
+- [Iterator](./Iterator.md)
+- [Mediator](./Mediator.md)
+- [Memento](./Memento.md)
+- [Strategy](./Strategy.md)
 - [More Coming Soon](#) - We're constantly adding new examples!
 
 Each pattern includes detailed explanations and code examples for a better understanding.
